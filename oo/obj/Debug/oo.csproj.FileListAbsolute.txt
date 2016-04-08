@@ -1,0 +1,5 @@
+F:\csharp\oo\oo\bin\Debug\oo.exe.config
+F:\csharp\oo\oo\bin\Debug\oo.exe
+F:\csharp\oo\oo\bin\Debug\oo.pdb
+F:\csharp\oo\oo\obj\Debug\oo.exe
+F:\csharp\oo\oo\obj\Debug\oo.pdb
